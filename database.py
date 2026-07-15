@@ -1,7 +1,7 @@
 import sqlite3
 
 # Base de datos
-DATABASE = "sistema_eventos.db"
+DATABASE = "sistema_Sazonara.db"
 
 
 # Conexión
